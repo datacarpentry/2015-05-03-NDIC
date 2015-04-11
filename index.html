@@ -64,6 +64,11 @@ Preliminary schedule:
 
 <!-- This block displays the instructors' names if they are available. -->
 {% if page.instructor %}
+
+<p>
+  <strong>Organizer:</strong>
+  {{page.host | join: ', ' %}}
+</p>
 <p>
   <strong>Instructors:</strong>
   {{page.instructor | join: ', ' %}}
