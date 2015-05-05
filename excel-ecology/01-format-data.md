@@ -102,14 +102,23 @@ Two graduate students went out and collected data in 1977, 1978 and 1979. They
 gave their data	to their advisor who put it in separate tabs in
 the same spreadsheet.
 
+- Create a folder data-carpentry
+
+- Go in to that folder, and create two folders 'raw-data' and 'analysis-data'
+
 - Download the spreadsheet from [https://github.com/datacarpentry/data-ecology/blob/gh-pages/messy-data/survey_data_tabs.xls?raw=true](https://github.com/datacarpentry/data-ecology/blob/gh-pages/messy-data/survey_data_tabs.xls?raw=true)  
 When you go to the link the data should just download
+
+- Put this file in the 'raw-data' folder
 
 - Open the file
 
 - Using the survey_data_tab.xls spreadsheet in the 1977 tab, identify the 
-things that would make it hard for a computer to understand and create a 
-new spreadsheet with the data that fixes those problems.
+things that would make it hard for a computer to understand
+
+- Create a new spreadsheet with the data that fixes those problems. Document
+what you did to fix it in a text file called README-1977, and save that new spreadsheet
+and text file in the 'analysis-data' folder.
 
 
 
