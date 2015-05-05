@@ -102,6 +102,11 @@ Two graduate students went out and collected data in 1977, 1978 and 1979. They
 gave their data	to their advisor who put it in separate tabs in
 the same spreadsheet.
 
+- Download the spreadsheet from [https://github.com/datacarpentry/data-ecology/blob/gh-pages/messy-data/survey_data_tabs.xls?raw=true](https://github.com/datacarpentry/data-ecology/blob/gh-pages/messy-data/survey_data_tabs.xls?raw=true)  
+When you go to the link the data should just download
+
+- Open the file
+
 - Using the survey_data_tab.xls spreadsheet in the 1977 tab, identify the 
 things that would make it hard for a computer to understand and create a 
 new spreadsheet with the data that fixes those problems.
